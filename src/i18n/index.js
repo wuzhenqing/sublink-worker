@@ -129,6 +129,7 @@ export const translations = {
       'Financial': '💰 金融服务',
       'Cloud Services': '☁️ 云服务',
       'Non-China': '🌐 非中国',
+      'Custom Direct': '自定义直连',
       'Manual Switch': '🖐️ 手动切换',
       'GLOBAL': 'GLOBAL'
     },
@@ -291,6 +292,7 @@ export const translations = {
       'Financial': '💰 Financial Services',
       'Cloud Services': '☁️ Cloud Services',
       'Non-China': '🌐 Non-China',
+      'Custom Direct': 'Custom Direct',
       'Manual Switch': '🖐️ Manual Switch',
       'GLOBAL': 'GLOBAL'
     },
@@ -447,6 +449,7 @@ export const translations = {
       'Financial': '💰 سرویس‌های مالی',
       'Cloud Services': '☁️ سرویس‌های ابری',
       'Non-China': '🌐 خارج از چین',
+      'Custom Direct': 'مسیر مستقیم سفارشی',
       'Manual Switch': '🖐️ Manual Switch',
       'GLOBAL': 'GLOBAL'
     },
@@ -603,6 +606,7 @@ export const translations = {
       'Financial': '💰 Финансовые сервисы',
       'Cloud Services': '☁️ Облачные сервисы',
       'Non-China': '🌐 За пределами Китая',
+      'Custom Direct': 'Прямой маршрут',
       'Manual Switch': '🖐️ Ручной выбор',
       'GLOBAL': 'GLOBAL'
     },

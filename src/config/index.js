@@ -3,6 +3,8 @@
  * Central export point for all configuration modules
  */
 
+export { CUSTOM_DIRECT_DOMAINS } from './customDirect.js';
+
 // Rule URLs
 export {
 	SITE_RULE_SET_BASE_URL,
